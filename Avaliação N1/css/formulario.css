@@ -1,0 +1,9 @@
+.formulario{
+    height: 250px;
+    max-width: 650px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 100px auto;
+}
